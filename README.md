@@ -30,7 +30,7 @@ A simple full-stack application to search Bangalore pincodes and area names.
 
 ### Clone Repository
 
-git clone https://github.com/yourusername/bangalore-pincode-explorer.git
+git clone https://github.com/Aashukaushik03/bangalore-pincode-explorer.git
 
 ### Backend Setup
 
@@ -41,7 +41,7 @@ npm install
 npm start
 
 Server runs on:
-http://localhost:5000
+http://localhost:8000
 
 ---
 
